@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mybackground {
+  background-image: url("../assets/bg.svg");
+}
